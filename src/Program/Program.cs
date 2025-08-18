@@ -19,3 +19,10 @@ public class Multiplication
     }
 }
 
+public class Power
+{
+    public static int Squared(int a)
+    {
+        return a * a;
+    }
+}
